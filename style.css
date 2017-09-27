@@ -1,0 +1,30 @@
+body{
+  background-image: url("http://www.surfhawaii4u.com/images/instructors/EdisonCHOPOOlg--1841.jpg");
+  color: purple;
+  font-family: "Lato";
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 h2{
+  font-family: "Montserrat";
+}
+
+.wrap {
+  float: left;
+  width: 1060px;
+  height:auto;
+  margin: 50px;
+  text-align:center;
+  position:relative;
+}
+.text_over_image {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left:0;
+  right:0;
+  bottom:0;
+  color: purple;
+  height:100px;
+}
